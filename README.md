@@ -32,3 +32,10 @@ An end-to-end Retrieval-Augmented Generation system for grounded question answer
 
 **Technology:** Python · FastAPI · ChromaDB · Sentence Transformers · BM25 · Cross-Encoder · Docker · GitHub Actions · Railway
 
+## Development Approach
+
+I focus on building systems that are practical, testable, and production-oriented. My development process involves investigating problems, evaluating alternatives, testing changes, and making engineering decisions based on system requirements and available resources.
+
+I am particularly interested in AI applications, information retrieval, backend engineering, and building reliable systems around LLMs.
+
+
