@@ -11,3 +11,24 @@ Building practical AI and backend systems with Python, with a focus on Retrieval
 * **Data & Infrastructure:** ChromaDB, Docker, GitHub Actions, GitHub Container Registry, Railway
 * **Engineering:** document processing, semantic chunking, incremental indexing, resumable ingestion, automated testing, RAG evaluation
 
+## Featured Project
+
+### Production RAG Knowledge Assistant
+
+An end-to-end Retrieval-Augmented Generation system for grounded question answering across multiple books.
+
+**Key engineering work:**
+
+* Hybrid retrieval combining semantic search and BM25 lexical retrieval
+* Cross-encoder reranking for improved context relevance
+* Semantic document chunking and multi-book ingestion
+* SHA-256 incremental indexing for new and changed documents
+* Resumable background ingestion with checkpoints
+* Complex-question routing and decomposition
+* Persistent ChromaDB storage
+* Benchmark-based RAG evaluation
+* FastAPI backend with authentication, rate limiting, logging, and health checks
+* Docker containerization, CI/CD, and Railway deployment
+
+**Technology:** Python · FastAPI · ChromaDB · Sentence Transformers · BM25 · Cross-Encoder · Docker · GitHub Actions · Railway
+
