@@ -38,4 +38,8 @@ I focus on building systems that are practical, testable, and production-oriente
 
 I am particularly interested in AI applications, information retrieval, backend engineering, and building reliable systems around LLMs.
 
+## Education
+
+**National Open University of Nigeria (NOUN)**
+B.Sc. Criminology and Security Studies — Expected 2027
 
