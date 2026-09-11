@@ -43,3 +43,7 @@ I am particularly interested in AI applications, information retrieval, backend 
 **National Open University of Nigeria (NOUN)**
 B.Sc. Criminology and Security Studies — Expected 2027
 
+## Links
+
+* **GitHub:** [github.com/isaiahabhulimen](https://github.com/isaiahabhulimen)
+* **Email:** [isaiahabhulimen@gmail.com](mailto:isaiahabhulimen@gmail.com)
