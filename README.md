@@ -3,6 +3,7 @@
 ### AI / RAG Engineer | Python Backend Developer
 
 🚀 **Live RAG Demo:** https://rag-api.rag-project.blitz.cloud/docs
+
 💻 **RAG Project:** https://github.com/isaiahabhulimen/rag-project
 
 Building practical AI and backend systems with Python, with a focus on Retrieval-Augmented Generation, information retrieval, and production-oriented engineering.
