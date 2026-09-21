@@ -2,13 +2,16 @@
 
 ### AI / RAG Engineer | Python Backend Developer
 
+🚀 **Live RAG Demo:** https://rag-api.rag-project.blitz.cloud/docs
+💻 **RAG Project:** https://github.com/isaiahabhulimen/rag-project
+
 Building practical AI and backend systems with Python, with a focus on Retrieval-Augmented Generation, information retrieval, and production-oriented engineering.
 
 ## Technical Focus
 
 * **AI & RAG:** Retrieval-Augmented Generation, LLM applications, embeddings, semantic search, hybrid retrieval, BM25, cross-encoder reranking
 * **Backend:** Python, FastAPI, REST APIs, authentication, rate limiting, structured logging
-* **Data & Infrastructure:** ChromaDB, Docker, GitHub Actions, GitHub Container Registry, Railway
+* **Data & Infrastructure:** ChromaDB, Docker, GitHub Actions, GitHub Container Registry, cloud deployment
 * **Engineering:** document processing, semantic chunking, incremental indexing, resumable ingestion, automated testing, RAG evaluation
 
 ## Featured Project
@@ -28,9 +31,9 @@ An end-to-end Retrieval-Augmented Generation system for grounded question answer
 * Persistent ChromaDB storage
 * Benchmark-based RAG evaluation
 * FastAPI backend with authentication, rate limiting, logging, and health checks
-* Docker containerization, CI/CD, and Railway deployment
+* Docker containerization, CI/CD, and cloud deployment
 
-**Technology:** Python · FastAPI · ChromaDB · Sentence Transformers · BM25 · Cross-Encoder · Docker · GitHub Actions · Railway
+**Technology:** Python · FastAPI · ChromaDB · Sentence Transformers · BM25 · Cross-Encoder · Docker · GitHub Actions
 
 ## Development Approach
 
@@ -45,5 +48,5 @@ B.Sc. Criminology and Security Studies — Expected 2027
 
 ## Links
 
-* **GitHub:** [github.com/isaiahabhulimen](https://github.com/isaiahabhulimen)
+* **GitHub:** https://github.com/isaiahabhulimen
 * **Email:** [isaiahabhulimen@gmail.com](mailto:isaiahabhulimen@gmail.com)
